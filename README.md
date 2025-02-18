@@ -1,7 +1,7 @@
 # SchoolSystem
 
 ## Descrição
-SchoolSystem é um sistema escolar simples que permite o cadastro e gerenciamento de Alunos, Professores, Turmas e Matérias. O objetivo do projeto é fornecer uma aplicação básica para administração escolar utilizando tecnologias modernas.
+SchoolSystem é um sistema escolar simples que permite o cadastro e gerenciamento de Alunos, Professores, Turmas e Matérias. O objetivo do projeto é para estudo e experiência de desenvolvimento de uma aplicação básica para administração escolar utilizando tecnologias modernas.
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Python
