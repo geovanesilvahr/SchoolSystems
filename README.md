@@ -79,9 +79,6 @@ git push origin minha-feature
 
 Depois, abra um Pull Request.
 
-## Licença
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
 ---
 
 ## Autores
